@@ -88,7 +88,7 @@ Ponto de entrada do aplicativo. Responsável por:
 
 1. Clone este repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone <https://github.com/CesarB98/fiap-to-do-list>
    ```
 2. Abra o projeto no Android Studio.
 3. Aguarde a sincronização do projeto com os arquivos Gradle (Sync Project with Gradle Files).
